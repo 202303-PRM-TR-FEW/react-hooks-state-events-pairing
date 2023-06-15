@@ -9,4 +9,8 @@ body {
 
 .App {
   text-align: center;
+  
+}
+.disply{
+  display: none;
 }
